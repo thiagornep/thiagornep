@@ -32,3 +32,22 @@
  	<a href="https://discord.gg/e6Q9XWwQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagornep@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-rodrigues-sales-39269286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ##
+  
+  Publicações e Artigos em Jornais:
+  
+  <div>
+    .
+    <a href="https://www.facebook.com/photo.php?fbid=716738745123137&set=t.100003610555188&type=3" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/741/741901.png" target="_blank" height="30" width="40">
+    </a> <h4> Publicação Jornal do Commercio - Smartphone brasileiro chega como inovação  </h4>
+    
+    <a href="https://www.facebook.com/photo.php?fbid=731240240339654&set=pb.100003610555188.-2207520000.&type=3" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/741/741901.png" target="_blank" height="30" width="40">
+    </a> <h4> Periscope, a nova tendência - 2015 </h4>
+    
+       
+     
+    
+  </div>
