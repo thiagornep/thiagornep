@@ -10,7 +10,9 @@
 - 🚀 Sou formado em Tecnologia da informação - UNIP, com 09 anos de experiência em TI(ênfase em Indústria e Comércio). 
   Atualmente em processo de transição para área de desenvolvimento, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho
 - 👩‍💻 Atualmente estudando o ecossistema Front-End(HTML, CSS e JS), também estou imerso nos estudos de back-end(node.js e C#).
+- 🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, Tenho compreendido tambem: ReactJS e seu ecossistema de tecnologia, sendo algumas delas: TypeScript, Bootstrap e NodeJS.
 - 💻 Atualmente disponivel para estágios na area de desenvolvimento frontend(remoto).
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
