@@ -65,3 +65,5 @@
       <img src="https://cdn-icons-png.flaticon.com/512/741/741901.png" target="_blank" height="30" width="40">
     </a> <h4> Publicação Jornal do Commercio - Empresas podem "alugar tecnologia"  </h4> 
   </div>
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
