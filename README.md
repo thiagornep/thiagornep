@@ -7,7 +7,7 @@
 
 - 🔭 Sou de Manaus, Nortista. Tenho 28 anos!
 - 👯 Trabalhar em grupo e modo cooperativo é essencial...
-- 🚀 Sou formado em Tecnologia da informação - UNIP, com 09 anos de experiência em TI(ênfase em Indústria e Comércio). 
+- 🚀 Sou formado em Tecnologia da informação - UNIP, com 10 anos de experiência em TI(ênfase em Indústria e Comércio). 
   Atualmente em processo de transição para área de desenvolvimento, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho
 - 👩‍💻 Atualmente estudando o ecossistema Front-End(HTML, CSS e JS), também estou imerso nos estudos de back-end(node.js e C#).
 - 🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, Tenho compreendido tambem: ReactJS e seu ecossistema de tecnologia, sendo algumas delas: TypeScript, e NodeJS.
