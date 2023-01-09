@@ -1,8 +1,4 @@
 ### E aí DEV, Eu sou Thiago seja bem vindo aos meus repositório de códigos.  👋
-<div align="center">
-  <a href="https://github.com/thiagornep">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagornep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 - 🔭 Sou de Manaus, Nortista. Tenho 28 anos!
 - 👯 Trabalhar em grupo e modo cooperativo é essencial...
@@ -65,4 +61,3 @@
     </a> <h4> Publicação Jornal do Commercio - Empresas podem "alugar tecnologia"  </h4> 
   </div>
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
