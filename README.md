@@ -4,7 +4,8 @@
 - 👯 Trabalhar em grupo e modo cooperativo é essencial...
 - 🚀 Sou formado em Tecnologia da informação - UNIP, com 11 anos de experiência em TI(ênfase em Indústria e Comércio). 
   Atualmente em processo de transição para área de desenvolvimento, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho
-- 👩‍💻 Atualmente estudando o ecossistema Front-End(HTML, CSS e JS), também estou imerso nos estudos de back-end(node.js e C#).
+- 👩‍💻 Atualmente estudando o ecossistema Front-End(HTML, CSS e JS), e iniciando a interação com o framework Angular(Componentização e Reutilização de Código, Tipagem Estática, Gerenciamento de Estado)
+-  Estudando design patterns (padrões de projeto)
 - 🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, Tenho compreendido tambem: ReactJS e seu ecossistema de tecnologia, sendo algumas delas: TypeScript, e NodeJS.
 - 💻 Atualmente disponivel para estágios na area de desenvolvimento front-end(remoto).
   
